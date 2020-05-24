@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ambesa/covid19.git/static/css/main.3cb6394e.chunk.css",
+    "main.js": "/ambesa/covid19.git/static/js/main.4e8ee177.chunk.js",
+    "main.js.map": "/ambesa/covid19.git/static/js/main.4e8ee177.chunk.js.map",
+    "runtime-main.js": "/ambesa/covid19.git/static/js/runtime-main.f3f11d44.js",
+    "runtime-main.js.map": "/ambesa/covid19.git/static/js/runtime-main.f3f11d44.js.map",
+    "static/js/2.ff3a8a7c.chunk.js": "/ambesa/covid19.git/static/js/2.ff3a8a7c.chunk.js",
+    "static/js/2.ff3a8a7c.chunk.js.map": "/ambesa/covid19.git/static/js/2.ff3a8a7c.chunk.js.map",
+    "index.html": "/ambesa/covid19.git/index.html",
+    "precache-manifest.ba6c3b8a76f9faec3f979b25b21947d2.js": "/ambesa/covid19.git/precache-manifest.ba6c3b8a76f9faec3f979b25b21947d2.js",
+    "service-worker.js": "/ambesa/covid19.git/service-worker.js",
+    "static/css/main.3cb6394e.chunk.css.map": "/ambesa/covid19.git/static/css/main.3cb6394e.chunk.css.map",
+    "static/js/2.ff3a8a7c.chunk.js.LICENSE.txt": "/ambesa/covid19.git/static/js/2.ff3a8a7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3f11d44.js",
+    "static/js/2.ff3a8a7c.chunk.js",
+    "static/css/main.3cb6394e.chunk.css",
+    "static/js/main.4e8ee177.chunk.js"
+  ]
+}
